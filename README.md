@@ -1,4 +1,4 @@
-# spitPdf
+# splitPdf
 Split pdf pages into separate pdf-s
 
 ## Install
